@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+// Enable multiple Java files for better code organization
+option java_multiple_files = true;
+
+// Defines the Java package where generated classes will be placed
+option java_package = "temp";
+
+// Outer class name for the generated Java files (not needed when using java_multiple_files)
+option java_outer_classname = "TempProto";
+
+package temp;
+
+service TemperatureService {
+  // Client subscribes to temperature updates
+  rpc SubscribeTemperature(SubscribeRequest) returns (stream TemperatureUpdate);
+}
+
+message SubscribeRequest {
+  string client_id = 1;
+}
+
+message TemperatureUpdate {
+  float temperature = 1;
+}

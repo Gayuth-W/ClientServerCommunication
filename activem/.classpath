@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/camel/activemq-camel-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/camel/camel-core-2.24.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/camel/camel-jms-2.24.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/camel/camel-spring-2.24.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/extra/mqtt-client-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activeio-core-3.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-amqp-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-http-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-jdbc-store-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-jms-pool-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-leveldb-store-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-log4j-appender-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-mqtt-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-partition-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-pool-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-runtime-config-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-shiro-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/activemq-stomp-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-dbcp2-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/commons-pool2-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/geronimo-j2ee-connector_1.5_spec-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/guava-28.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/hawtbuf-proto-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/hawtdispatch-1.22.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/hawtdispatch-scala-2.11-1.22.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/hawtdispatch-transport-1.22.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/hawtjni-runtime-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/insight-log4j-1.2.0.Beta4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/insight-log-core-1.2.0.Beta4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jackson-annotations-2.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jackson-core-2.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jackson-databind-2.9.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jasypt-spring31-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jaxb2-basics-runtime-0.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jettison-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/jmdns-3.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/leveldb-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/leveldb-api-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/leveldbjni-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/org.apache.servicemix.bundles.josql-1.5_5.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/org.linkedin.util-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/org.linkedin.zookeeper-impl-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/proton-j-0.33.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/scala-library-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/shiro-core-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/shiro-spring-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/snappy-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/snappy-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-aop-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-beans-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-context-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-core-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-expression-5.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-jms-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-oxm-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/spring-tx-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/velocity-engine-core-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/xbean-spring-4.14.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/xstream-1.4.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/optional/zookeeper-3.4.14.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/apache-el-8.5.40.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/apache-jsp-8.5.40.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/apache-jsp-9.4.22.v20191022.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/apache-jstl-9.4.22.v20191022.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/ecj-3.17.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/geronimo-annotation_1.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/jdom2-2.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/jetty-all-9.4.22.v20191022-uber.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/jolokia-core-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/rome-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/rome-utils-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/spring-web-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/spring-webmvc-4.3.24.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/tomcat-servlet-api-9.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/web/tomcat-websocket-api-9.0.27.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-broker-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-client-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-console-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-jaas-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-kahadb-store-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-openwire-legacy-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-protobuf-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-spring-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/activemq-web-5.15.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/hawtbuf-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/year 2/2nd semester/DS/labs/lab2/activem/WebContent/WEB-INF/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
