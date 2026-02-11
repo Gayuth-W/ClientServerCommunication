@@ -75,6 +75,7 @@ public class ChatServer {
                     	
                     	// TODO Task 1: Add a long delay here to demonstrate blocking communication
                     	// Hint: You can use Thread.sleep method to delay a thread.
+                    	//Adding a delay before sending the message to the client-IT24104152
                     	try {
                         	Thread.sleep(5000);
                     	}catch(InterruptedException e) {

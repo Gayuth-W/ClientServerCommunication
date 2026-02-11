@@ -35,7 +35,7 @@ public class TemperatureClient {
         	@Override
             public void onNext(TemperatureUpdate update) {
                 // Print the received temperature update to the console
-        		System.out.println("Updated "+update);
+        		System.out.println("Updated "+update);//Printing the updated temperature-IT24104152
         	
             }
 

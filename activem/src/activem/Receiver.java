@@ -58,11 +58,11 @@ public class Receiver implements MessageListener {
         Receiver receiver = new Receiver();
 
         // TODO: Uncomment this to register as a listener
-        Thread.sleep(1000);
-         receiver.registerListener();
+        receiver.registerListener();//Enabling as a listener-IT24104152
         
         // TODO: Comment this line
-//        receiver.receiveMessage();
+        //Block the current thread until a message arrives-IT24104152
+        // receiver.receiveMessage();
         
         System.out.println("print");
         int i = 0;

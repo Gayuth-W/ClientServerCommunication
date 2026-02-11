@@ -37,7 +37,6 @@ public class TemperatureServer {
                     // Notify client only if the temperature change is significant
                     if (lastTemp == -1 || Math.abs(currentTemp - lastTemp) > 5) { // Threshold for change is 5�C
                     	
-                    	Thread.sleep(5000);//Added this to add a delay before sending the message to the client-IT24104152
                         lastTemp = currentTemp;
                         TemperatureUpdate update = TemperatureUpdate.newBuilder().setTemperature(currentTemp).build();
                         responseObserver.onNext(update); // Send update to the client

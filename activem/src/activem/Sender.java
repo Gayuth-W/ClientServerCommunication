@@ -35,7 +35,7 @@ public class Sender {
 			connection = factory.createConnection();
 			
 			// TODO: Set the async mode to true
-			 ((ActiveMQConnection)connection).setUseAsyncSend(true);
+			 ((ActiveMQConnection)connection).setUseAsyncSend(true);//Enabling async mode to be true-IT24104152
 			
 			
 			// Starting the connection to begin message delivery.
@@ -79,12 +79,6 @@ public class Sender {
 	public static void main(String[] args) {
 		// Instantiating the Sender class and invoking sendMessage to send a message to the queue.
 		Sender sender = new Sender();
-//		try {
-//			Thread.sleep(5000);
-//		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
 		sender.sendMessage();
 	}
 }
