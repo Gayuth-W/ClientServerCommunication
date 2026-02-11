@@ -32,14 +32,16 @@ public class TemperatureServer {
                     float currentTemp = 20 + random.nextFloat() * 10; // Generate random temperature between 20 and 30
 
                     // Always print the current temperature to the console
-                    System.out.println("Current Temperature: " + currentTemp + "°C");
+                    System.out.println("Current Temperature: " + currentTemp + "ï¿½C");
 
                     // Notify client only if the temperature change is significant
-                    if (lastTemp == -1 || Math.abs(currentTemp - lastTemp) > 5) { // Threshold for change is 5°C
+                    if (lastTemp == -1 || Math.abs(currentTemp - lastTemp) > 5) { // Threshold for change is 5ï¿½C
+                    	
+                    	Thread.sleep(5000);//Added this to add a delay before sending the message to the client-IT24104152
                         lastTemp = currentTemp;
                         TemperatureUpdate update = TemperatureUpdate.newBuilder().setTemperature(currentTemp).build();
                         responseObserver.onNext(update); // Send update to the client
-                        System.out.println("Clients Notified: " + currentTemp + "°C");
+                        System.out.println("Clients Notified: " + currentTemp + "ï¿½C");
                     }
 
                     // Check if client has disconnected
